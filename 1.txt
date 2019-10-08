@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_n3d4Cj
 new2 branch
+=======
+new3 branch
+>>>>>>> .merge_file_b5kDvj
