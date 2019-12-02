@@ -1,0 +1,1 @@
+gcc week12-4.c -o systemcall -DSYSCALL_SIGNAL_API
